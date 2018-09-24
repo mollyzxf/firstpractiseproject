@@ -9,7 +9,7 @@ public class Test1 {
 
     String str1 = "china";
     String str2 = new String("china");
-    String s1 = "chin";
+    String s1 = "chinn";
     String s2 = "a1";
     String s3 = s1 + s2;
     System.out.println(str1== str2);
